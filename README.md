@@ -1,5 +1,5 @@
 # GPTW-dataviz
-Visual data exploratory enviroment using GPTW Australia's publicly available data.
+Visual data exploratory environment using GPTW Australia's publicly available data.
 This is my capstone project for Bachelor of BA.
 
 Download the pbix file and use the exploratory guide to assist in using the dashboards.
